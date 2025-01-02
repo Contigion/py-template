@@ -1,5 +1,5 @@
-# contigion-utils
-A library for utility functions common across Contigion projects
+# contigion-<REPOSITORY>
+A template repo for future Contigion repositories
 
 [![Pylint](https://github.com/Contigion/<REPOSITORY>/actions/workflows/pylint.yml/badge.svg?branch=main)](https://github.com/Contigion/utils/actions/workflows/pylint.yml)
 [![Publish to PyPI](https://github.com/Contigion/<REPOSITORY>/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/Contigion/utils/actions/workflows/publish.yml)
